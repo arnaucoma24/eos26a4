@@ -2,7 +2,8 @@
 
 Locates a molecule within COCONUT, a collection of roughly 715,000 open natural products, returning x and y coordinates from PCA, UMAP, t-SNE and TMAP. Comparing a compound against natural product space helps judge whether synthetic chemistry has strayed into or away from the structural territory that yields bioactive metabolites. Placement uses 2048-bit ECFP4 fingerprints and RDKit descriptors, and for UMAP, t-SNE and TMAP it leans on surrogate models fitted to the reference embedding rather than re-running the projection.
 
-This model was incorporated on 2026-03-23.Last packaged on 2026-09-25.
+This model was incorporated on 2026-03-23.
+Last packaged on 2026-09-25.
 
 ## Information
 ### Identifiers
